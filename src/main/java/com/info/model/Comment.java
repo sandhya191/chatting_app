@@ -2,6 +2,13 @@ package com.info.model;
 
 import java.util.Date;
 
+/**
+ * 
+ * @author Sandhya
+ * Details about Comment
+ *
+ */
+
 public class Comment {
 	
 	private long id;

@@ -7,6 +7,13 @@ import java.util.Map;
 import com.info.database.DatabaseClass;
 import com.info.model.Profile;
 
+/**
+ * 
+ * @author Sandhya
+ * Profile Service of Restful Web Service
+ *
+ */
+
 public class ProfileService {
 	
 private Map<String, Profile> profiles = DatabaseClass.getProfiles();

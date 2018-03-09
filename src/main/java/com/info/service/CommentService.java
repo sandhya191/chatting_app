@@ -14,6 +14,13 @@ import com.info.model.Comment;
 import com.info.model.ErrorMessage;
 import com.info.model.Message;
 
+/**
+ * 
+ * @author Sandhya
+ * Comment Service Of Restful Web Service
+ *
+ */
+
 public class CommentService {
 	
 private Map<Long, Message> messages = DatabaseClass.getMessages();

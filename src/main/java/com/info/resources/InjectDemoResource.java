@@ -12,6 +12,13 @@ import javax.ws.rs.core.HttpHeaders;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.UriInfo;
 
+/**
+ * 
+ * @author Sandhya
+ * To print the Header Param and Matrix Param
+ *
+ */
+
 @Path("/injectdemo")
 @Consumes(MediaType.TEXT_PLAIN)
 @Produces(MediaType.TEXT_PLAIN)

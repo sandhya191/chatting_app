@@ -1,5 +1,12 @@
 package com.info.model;
 
+/**
+ * 
+ * @author Sandhya
+ * Details of Link 
+ *
+ */
+
 public class Link {
 	private String link;
 	private String rel;

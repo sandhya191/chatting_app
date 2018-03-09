@@ -21,6 +21,12 @@ import com.info.Filter.MessageFilterBean;
 import com.info.model.Message;
 import com.info.service.MessageService;
 
+/**
+ * 
+ * @author Sandhya
+ * Using Produces and Consumer in Restful Web Services
+ *
+ */
 
 
 @Path("/messages")

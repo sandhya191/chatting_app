@@ -2,6 +2,13 @@ package com.info.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+/**
+ * 
+ * @author Sandhya
+ * Error message in Documentation
+ *
+ */
+
 @XmlRootElement
 public class ErrorMessage {
 	

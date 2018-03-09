@@ -2,6 +2,13 @@ package com.info.model;
 
 import java.util.Date;
 
+/**
+ * 
+ * @author Sandhya
+ * Profile Details
+ *
+ */
+
 public class Profile {
 	
 	private long id;

@@ -10,6 +10,13 @@ import com.info.model.Link;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
+/**
+ * 
+ * @author Sandhya
+ * 
+ *
+ */
+
 @XmlRootElement
 public class Message {
 	

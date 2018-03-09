@@ -16,6 +16,12 @@ import javax.ws.rs.core.MediaType;
 import com.info.model.Profile;
 import com.info.service.ProfileService;
 
+/**
+ * 
+ * @author Sandhya
+ * using Producer and Consumer in Profile 
+ *
+ */
 
 @Path("/profiles")
 @Consumes(MediaType.APPLICATION_JSON)

@@ -12,6 +12,13 @@ import javax.ws.rs.PathParam;
 import com.info.model.Comment;
 import com.info.service.CommentService;
 
+/**
+ * 
+ * @author Sandhya
+ * Comment resource of restful Web Services
+ *
+ */
+
 @Path("/")
 public class CommentResource {
 	

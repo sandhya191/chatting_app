@@ -6,6 +6,13 @@ import javax.ws.rs.ext.ExceptionMapper;
 
 import com.info.model.ErrorMessage;
 
+/**
+ * 
+ * @author Sandhya
+ * Resonse of Data Not Found Exception Mapper
+ *
+ */
+
 public class DataNotFoundExceptionMapper implements ExceptionMapper<DataNotFoundException> {
 
 	@Override

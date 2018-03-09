@@ -9,6 +9,13 @@ import com.info.database.DatabaseClass;
 import com.info.exception.DataNotFoundException;
 import com.info.model.Message;
 
+/**
+ * 
+ * @author Sandhya
+ * Message Service of restful Web Service
+ *
+ */
+
 public class MessageService {
 	
 	private Map<Long, Message> messages = DatabaseClass.getMessages();

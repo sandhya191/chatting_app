@@ -6,6 +6,13 @@ import javax.ws.rs.ext.ExceptionMapper;
 
 import com.info.model.ErrorMessage;
 
+/**
+ * 
+ * @author Sandhya
+ * Generic Exception Mapper in Restful Web Services
+ *
+ */
+
 public class GenericExceptionMapper implements ExceptionMapper<Throwable> {
 
 	@Override

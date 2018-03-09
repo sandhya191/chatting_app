@@ -6,6 +6,14 @@ import java.util.Map;
 import com.info.model.Message;
 import com.info.model.Profile;
 
+/**
+ * 
+ * @author Sandhya
+ * DateBase class of Restful Web Services
+ *
+ */
+
+
 public class DatabaseClass {
 	
 	private static Map<Long, Message> messages = new HashMap<>();

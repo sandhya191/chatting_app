@@ -2,6 +2,13 @@ package com.info.Filter;
 
 import javax.ws.rs.QueryParam;
 
+/**
+ * 
+ * @author Sandhya
+ * Bean of Message Filter in Restful Web Services
+ *
+ */
+
 public class MessageFilterBean {
 	
 	 private @QueryParam("year") int year; 
