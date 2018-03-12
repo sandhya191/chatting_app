@@ -13,7 +13,7 @@ import javax.xml.bind.annotation.XmlTransient;
 /**
  * 
  * @author Sandhya
- * 
+ * Details of Message 
  *
  */
 

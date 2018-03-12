@@ -10,6 +10,7 @@ import com.info.model.Profile;
  * 
  * @author Sandhya
  * DateBase class of Restful Web Services
+ * In this class messages, profiles of Services
  *
  */
 
